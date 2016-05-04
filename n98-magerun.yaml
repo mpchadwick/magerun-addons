@@ -1,0 +1,6 @@
+autoloaders:
+  Mpchadwick: %module%/src
+
+commands:
+  customCommands:
+    - Mpchadwick\Magento\Command\Dev\Search\SeedCommand
